@@ -3,6 +3,7 @@
 .doc1 {
   background-color: rgba(9, 40, 242, 0.634);
   margin: auto;
+
   /*This class fills the gaps between the colors*/
 }
 
@@ -18,7 +19,7 @@ header > img {
   /*Displays the image in the center*/
 }
 
-.bull > nav > ul > li {
+ li {
   list-style: none;
   /*Hides the bullet points in the ul and li*/
 }
@@ -83,6 +84,15 @@ a:hover {
 .A1{
     padding-left: 40vw;
     /*centers the h2 in the footer properly*/
+}
+
+.fa-brands{
+  color: black;
+}
+
+.fa-brands:hover{
+  color: green;
+  /*icon turns green when the cursor on it */
 }
 
 footer>p{
