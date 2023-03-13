@@ -4,5 +4,4 @@ Author: Tumelo Kelello Seripe
 
 List of projects used: Visual Studio Code, Github , Link of Font Awesome (for icons), Figma
 
-Breif description
-Shows digital resume where styling is used to make the resume nicer
+Breif description: Shows digital resume where styling is used to make the resume nicer
